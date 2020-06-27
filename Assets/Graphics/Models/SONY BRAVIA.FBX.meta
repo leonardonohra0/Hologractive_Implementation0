@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: bd92441e514cee64b978fdbcd2e94766
+timeCreated: 1492777099
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box1401
+    100002: Box1402
+    100004: Object014
+    100006: Object015
+    100008: Object016
+    100010: Object017
+    100012: Plane206
+    100014: Plane206_MeshPart0
+    100016: Plane206_MeshPart1
+    100018: Plane206_MeshPart2
+    100020: Plane206_MeshPart3
+    100022: Plane206_MeshPart4
+    100024: Plane206_MeshPart5
+    100026: Plane206_MeshPart6
+    100028: Plane206_MeshPart7
+    100030: Plane207
+    100032: Plane208
+    100034: Shape011
+    100036: Shape012
+    100038: Shape013
+    100040: Shape014
+    100042: //RootNode
+    400000: Box1401
+    400002: Box1402
+    400004: Object014
+    400006: Object015
+    400008: Object016
+    400010: Object017
+    400012: Plane206
+    400014: Plane206_MeshPart0
+    400016: Plane206_MeshPart1
+    400018: Plane206_MeshPart2
+    400020: Plane206_MeshPart3
+    400022: Plane206_MeshPart4
+    400024: Plane206_MeshPart5
+    400026: Plane206_MeshPart6
+    400028: Plane206_MeshPart7
+    400030: Plane207
+    400032: Plane208
+    400034: Shape011
+    400036: Shape012
+    400038: Shape013
+    400040: Shape014
+    400042: //RootNode
+    2300000: Box1401
+    2300002: Box1402
+    2300004: Object014
+    2300006: Object015
+    2300008: Object016
+    2300010: Object017
+    2300012: Plane206_MeshPart0
+    2300014: Plane206_MeshPart1
+    2300016: Plane206_MeshPart2
+    2300018: Plane206_MeshPart3
+    2300020: Plane206_MeshPart4
+    2300022: Plane206_MeshPart5
+    2300024: Plane206_MeshPart6
+    2300026: Plane206_MeshPart7
+    2300028: Plane207
+    2300030: Plane208
+    2300032: Shape011
+    2300034: Shape012
+    2300036: Shape013
+    2300038: Shape014
+    3300000: Box1401
+    3300002: Box1402
+    3300004: Object014
+    3300006: Object015
+    3300008: Object016
+    3300010: Object017
+    3300012: Plane206_MeshPart0
+    3300014: Plane206_MeshPart1
+    3300016: Plane206_MeshPart2
+    3300018: Plane206_MeshPart3
+    3300020: Plane206_MeshPart4
+    3300022: Plane206_MeshPart5
+    3300024: Plane206_MeshPart6
+    3300026: Plane206_MeshPart7
+    3300028: Plane207
+    3300030: Plane208
+    3300032: Shape011
+    3300034: Shape012
+    3300036: Shape013
+    3300038: Shape014
+    4300000: Plane206_MeshPart0
+    4300002: Plane206_MeshPart1
+    4300004: Plane206_MeshPart2
+    4300006: Plane206_MeshPart3
+    4300008: Plane206_MeshPart4
+    4300010: Plane206_MeshPart5
+    4300012: Plane206_MeshPart6
+    4300014: Plane206_MeshPart7
+    4300016: Object014
+    4300018: Object015
+    4300020: Plane207
+    4300022: Plane208
+    4300024: Box1401
+    4300026: Shape011
+    4300028: Shape012
+    4300030: Object016
+    4300032: Object017
+    4300034: Box1402
+    4300036: Shape013
+    4300038: Shape014
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
